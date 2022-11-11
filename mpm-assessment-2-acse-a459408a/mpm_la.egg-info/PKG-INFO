@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mpm-la
+Version: 0.1.dev1+g9604fec
+Summary: Environment for MPM assessment 2.
+Home-page: https://github.com/ese-msc-2022
+Author: Imperial College London
+Author-email: rhodri.nelson@imperial.ac.uk
+License: UNKNOWN
+Platform: UNKNOWN
+
+Environment for MPM assessement 2.
+
